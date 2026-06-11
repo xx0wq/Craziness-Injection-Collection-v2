@@ -12,10 +12,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Cache haxelib
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: $HOME/haxelib
           key: haxelib-${{ runner.os }}-${{ hashFiles('**/*.hxml') }}
@@ -42,7 +42,7 @@ jobs:
         run: lime build android
 
       - name: Upload APK artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: android-apk
           path: export/android/bin/app/build/outputs/apk/**/*.apk

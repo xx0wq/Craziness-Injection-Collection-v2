@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aaaa.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000.PNG" x="0" y="0" width="959" height="999"/>
+	<SubTexture name="down0001.PNG" x="959" y="0" width="959" height="999"/>
+	<SubTexture name="down0002.PNG" x="1918" y="0" width="959" height="999"/>
+	<SubTexture name="down0003.PNG" x="2877" y="0" width="959" height="999"/>
+	<SubTexture name="down0004.PNG" x="3836" y="0" width="959" height="999"/>
+	<SubTexture name="idle0000.PNG" x="4795" y="0" width="806" height="858"/>
+	<SubTexture name="idle0001.PNG" x="5601" y="0" width="806" height="858"/>
+	<SubTexture name="idle0002.PNG" x="6407" y="0" width="806" height="858"/>
+	<SubTexture name="idle0003.PNG" x="7213" y="0" width="806" height="858"/>
+	<SubTexture name="idle0004.PNG" x="0" y="999" width="806" height="858"/>
+	<SubTexture name="idle0005.PNG" x="806" y="999" width="806" height="858"/>
+	<SubTexture name="idle0006.PNG" x="1612" y="999" width="806" height="858"/>
+	<SubTexture name="idle0007.PNG" x="2418" y="999" width="806" height="858"/>
+	<SubTexture name="idle0008.PNG" x="3224" y="999" width="806" height="858"/>
+	<SubTexture name="idle0009.PNG" x="4030" y="999" width="806" height="858"/>
+	<SubTexture name="idle0010.PNG" x="4836" y="999" width="806" height="858"/>
+	<SubTexture name="left0000.PNG" x="5642" y="999" width="959" height="999"/>
+	<SubTexture name="left0001.PNG" x="6601" y="999" width="959" height="999"/>
+	<SubTexture name="left0002.PNG" x="0" y="1998" width="959" height="999"/>
+	<SubTexture name="left0003.PNG" x="959" y="1998" width="959" height="999"/>
+	<SubTexture name="left0004.PNG" x="1918" y="1998" width="959" height="999"/>
+	<SubTexture name="left0005.PNG" x="2877" y="1998" width="959" height="999"/>
+	<SubTexture name="right0000.PNG" x="3836" y="1998" width="959" height="999"/>
+	<SubTexture name="right0001.PNG" x="4795" y="1998" width="959" height="999"/>
+	<SubTexture name="right0002.PNG" x="5754" y="1998" width="959" height="999"/>
+	<SubTexture name="right0003.PNG" x="6713" y="1998" width="959" height="999"/>
+	<SubTexture name="right0004.PNG" x="0" y="2997" width="959" height="999"/>
+	<SubTexture name="right0005.PNG" x="959" y="2997" width="959" height="999"/>
+	<SubTexture name="up0000.PNG" x="1918" y="2997" width="959" height="999"/>
+	<SubTexture name="up0001.PNG" x="2877" y="2997" width="959" height="999"/>
+	<SubTexture name="up0002.PNG" x="3836" y="2997" width="959" height="999"/>
+	<SubTexture name="up0003.PNG" x="4795" y="2997" width="959" height="999"/>
+	<SubTexture name="up0004.PNG" x="5754" y="2997" width="959" height="999"/>
+	<SubTexture name="up0005.PNG" x="6713" y="2997" width="959" height="999"/>
+</TextureAtlas>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pixelbf.png">
+<SubTexture name="I0000" x="0" y="0" width="61" height="65" frameX="-31" frameY="-55" frameWidth="100" frameHeight="100" />
+<SubTexture name="I0001" x="244" y="0" width="59" height="62" frameX="-31" frameY="-58" frameWidth="100" frameHeight="100" />
+<SubTexture name="I0002" x="61" y="0" width="59" height="64" frameX="-32" frameY="-56" frameWidth="100" frameHeight="100" />
+<SubTexture name="I0003" x="120" y="0" width="61" height="65" frameX="-31" frameY="-55" frameWidth="100" frameHeight="100" />
+<SubTexture name="I0004" x="181" y="0" width="63" height="65" frameX="-31" frameY="-55" frameWidth="100" frameHeight="100" />
+<SubTexture name="L0000" x="0" y="65" width="57" height="65" frameX="-32" frameY="-55" frameWidth="100" frameHeight="100" />
+<SubTexture name="L0001" x="57" y="65" width="57" height="65" frameX="-34" frameY="-55" frameWidth="100" frameHeight="100" />
+<SubTexture name="L0002" x="114" y="65" width="56" height="65" frameX="-34" frameY="-55" frameWidth="100" frameHeight="100" />
+<SubTexture name="R0000" x="170" y="65" width="53" height="65" frameX="-40" frameY="-55" frameWidth="100" frameHeight="100" />
+<SubTexture name="R0001" x="223" y="65" width="53" height="65" frameX="-39" frameY="-55" frameWidth="100" frameHeight="100" />
+<SubTexture name="R0002" x="0" y="130" width="54" height="65" frameX="-39" frameY="-55" frameWidth="100" frameHeight="100" />
+<SubTexture name="U0000" x="54" y="130" width="62" height="68" frameX="-33" frameY="-52" frameWidth="100" frameHeight="100" />
+<SubTexture name="U0001" x="116" y="130" width="60" height="66" frameX="-34" frameY="-54" frameWidth="100" frameHeight="100" />
+<SubTexture name="U0002" x="176" y="130" width="60" height="66" frameX="-34" frameY="-54" frameWidth="100" frameHeight="100" />
+<SubTexture name="D0000" x="236" y="130" width="53" height="62" frameX="-37" frameY="-58" frameWidth="100" frameHeight="100" />
+<SubTexture name="D0001" x="0" y="198" width="52" height="63" frameX="-38" frameY="-57" frameWidth="100" frameHeight="100" />
+<SubTexture name="D0002" x="52" y="198" width="52" height="63" frameX="-38" frameY="-57" frameWidth="100" frameHeight="100" />
+<SubTexture name="missL0000" x="104" y="198" width="57" height="65" frameX="-34" frameY="-55" frameWidth="100" frameHeight="100" />
+<SubTexture name="missL0001" x="161" y="198" width="56" height="65" frameX="-34" frameY="-55" frameWidth="100" frameHeight="100" />
+<SubTexture name="missR0000" x="217" y="198" width="53" height="65" frameX="-40" frameY="-55" frameWidth="100" frameHeight="100" />
+<SubTexture name="missR0001" x="0" y="263" width="53" height="65" frameX="-39" frameY="-55" frameWidth="100" frameHeight="100" />
+<SubTexture name="missU0000" x="53" y="263" width="62" height="68" frameX="-33" frameY="-52" frameWidth="100" frameHeight="100" />
+<SubTexture name="missU0001" x="115" y="263" width="59" height="66" frameX="-35" frameY="-54" frameWidth="100" frameHeight="100" />
+<SubTexture name="missD0000" x="174" y="263" width="53" height="62" frameX="-37" frameY="-58" frameWidth="100" frameHeight="100" />
+<SubTexture name="missD0001" x="227" y="263" width="52" height="63" frameX="-38" frameY="-57" frameWidth="100" frameHeight="100" />
+</TextureAtlas>

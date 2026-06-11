@@ -1,0 +1,211 @@
+{
+	"song": {
+		"events": [
+			[
+				26250,
+				[
+					[
+						"Flash Camera(black)",
+						"213",
+						""
+					]
+				]
+			],
+			[
+				26756.7567567567,
+				[
+					[
+						"lyrics",
+						"Deez.",
+						"ff0000, 24"
+					]
+				]
+			],
+			[
+				27162.1621621622,
+				[
+					[
+						"lyrics",
+						"Deez Nuts! XD",
+						"ff0000, 24"
+					]
+				]
+			],
+			[
+				27567.5675675676,
+				[
+					[
+						"lyrics",
+						"       ",
+						"ff0000, 24"
+					],
+					[
+						"Flash Screen",
+						"1",
+						""
+					],
+					[
+						"Cam Zoom Tween",
+						"0.6",
+						"0.2"
+					]
+				]
+			],
+			[
+				27668.9189189189,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.5",
+						"0.2"
+					]
+				]
+			],
+			[
+				42364.8648648648,
+				[
+					[
+						"Cam Zoom Tween",
+						"1",
+						"0.6"
+					]
+				]
+			],
+			[
+				43783.7837837838,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.5",
+						"0.6"
+					]
+				]
+			],
+			[
+				53513.5135135135,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.9",
+						"0.6"
+					],
+					[
+						"Flash Screen",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"Randy 2"
+					],
+					[
+						"Change Character",
+						"dad",
+						"bfci"
+					],
+					[
+						"badapplelol",
+						"a",
+						""
+					]
+				]
+			],
+			[
+				53614.8648648648,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Randy 2"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfci"
+					]
+				]
+			],
+			[
+				53716.2162162162,
+				[
+					[
+						"badapplelol",
+						"a",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"badapplelol",
+						"b",
+						""
+					],
+					[
+						"Flash Screen",
+						"1",
+						""
+					],
+					[
+						"Cam Zoom Tween",
+						"0.5",
+						"0.2"
+					],
+					[
+						"Change Character",
+						"dad",
+						"randy-briefcase"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-briefcase"
+					]
+				]
+			],
+			[
+				106013.513513514,
+				[
+					[
+						"Flash Camera(black)",
+						"342",
+						""
+					]
+				]
+			],
+			[
+				107635.135135135,
+				[
+					[
+						"lyrics",
+						"Amogus brrbrr patapin",
+						"ff0000, 24"
+					]
+				]
+			],
+			[
+				107837.837837838,
+				[
+					[
+						"lyrics",
+						"   ",
+						"ff0000, 24"
+					]
+				]
+			],
+			[
+				112601.351351351,
+				[
+					[
+						"lyrics",
+						"vickstered cpero",
+						"ff0000, 24"
+					]
+				]
+			]
+		]
+	}
+}

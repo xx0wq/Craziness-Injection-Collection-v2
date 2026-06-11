@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				28
+			],
+			"anim": "",
+			"fps": 64,
+			"name": "Pico NOTE LEFT miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pico Idle Dance"
+		},
+		{
+			"offsets": [
+				16,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico Note Right"
+		},
+		{
+			"offsets": [
+				86,
+				-88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pico Down Note"
+		},
+		{
+			"offsets": [
+				-36,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note"
+		},
+		{
+			"offsets": [
+				-45,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right Miss"
+		},
+		{
+			"offsets": [
+				81,
+				-102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "down MISS"
+		},
+		{
+			"offsets": [
+				257,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pico NOTE LEFT"
+		},
+		{
+			"offsets": [
+				284,
+				-63
+			],
+			"loop": false,
+			"fps": 64,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "LEFT miss"
+		},
+		{
+			"offsets": [
+				-1,
+				44
+			],
+			"loop": false,
+			"fps": 64,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up miss"
+		},
+		{
+			"offsets": [
+				0,
+				82
+			],
+			"loop": false,
+			"fps": 64,
+			"anim": "lolsuperman",
+			"indices": [],
+			"name": "Pico fall"
+		},
+		{
+			"offsets": [
+				233,
+				1827
+			],
+			"loop": false,
+			"fps": 64,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Pico fall"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				137,
+				1146
+			],
+			"anim": "idle-alt",
+			"fps": 18,
+			"name": "Pico fall",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oldtimeypico",
+	"position": [
+		100,
+		360
+	],
+	"healthicon": "icon-picold",
+	"flip_x": false,
+	"healthbar_colors": [
+		101,
+		101,
+		101
+	],
+	"camera_position": [
+		-320,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

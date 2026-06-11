@@ -1,0 +1,296 @@
+{
+	"song": {
+		"events": [
+			[
+				9200,
+				[
+					[
+						"Change Character",
+						"gf",
+						"Randy_Crazy"
+					],
+					[
+						"Flash Screen",
+						"1",
+						""
+					],
+					[
+						"badapplelol",
+						"a",
+						""
+					]
+				]
+			],
+			[
+				18400,
+				[
+					[
+						"badapplelol",
+						"b",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"Randy_Crazy"
+					],
+					[
+						"Flash Screen",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				18500,
+				[
+					[
+						"Change Character",
+						"gf",
+						"NADA"
+					]
+				]
+			],
+			[
+				25300,
+				[
+					[
+						"Cam Zoom Tween",
+						"1.4",
+						"0"
+					]
+				]
+			],
+			[
+				27600,
+				[
+					[
+						"Flash Screen",
+						"1",
+						""
+					],
+					[
+						"Cam Zoom Tween",
+						"0.6",
+						"0"
+					],
+					[
+						"NoteSpin",
+						"",
+						""
+					],
+					[
+						"NoteSpin",
+						"",
+						""
+					]
+				]
+			],
+			[
+				27700,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.8",
+						"0"
+					]
+				]
+			],
+			[
+				64200,
+				[
+					[
+						"Flash Screen",
+						"1",
+						""
+					],
+					[
+						"badapplelol",
+						"a",
+						""
+					],
+					[
+						"glitchstodoskuliados-que iba añadir para hellsights pero se crasheanxDXdxd (2)",
+						"on",
+						""
+					],
+					[
+						"Flash Screen",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				91500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.10"
+					]
+				]
+			],
+			[
+				92100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.10"
+					]
+				]
+			],
+			[
+				92700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.10"
+					]
+				]
+			],
+			[
+				93200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.10"
+					]
+				]
+			],
+			[
+				93800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.10"
+					]
+				]
+			],
+			[
+				94400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.10"
+					]
+				]
+			],
+			[
+				95000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.10"
+					]
+				]
+			],
+			[
+				95500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.10"
+					]
+				]
+			],
+			[
+				96100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.10"
+					]
+				]
+			],
+			[
+				96700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.10"
+					]
+				]
+			],
+			[
+				97200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.10"
+					]
+				]
+			],
+			[
+				97800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.10"
+					]
+				]
+			],
+			[
+				100600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.10"
+					],
+					[
+						"Flash Screen",
+						"1",
+						""
+					],
+					[
+						"badapplelol",
+						"b",
+						""
+					],
+					[
+						"NoteSpin",
+						"",
+						""
+					]
+				]
+			],
+			[
+				173900,
+				[
+					[
+						"NoteSpin",
+						"",
+						""
+					],
+					[
+						"Cam Zoom Tween",
+						"1.5",
+						"0.2"
+					]
+				]
+			],
+			[
+				175200,
+				[
+					[
+						"Flash Camera(black)",
+						"456",
+						""
+					]
+				]
+			]
+		]
+	}
+}

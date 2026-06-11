@@ -1,0 +1,111 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Flash Camera(black)",
+						"5",
+						""
+					],
+					[
+						"Opponent Fade",
+						"1",
+						""
+					],
+					[
+						"Goodbye Hud",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				17400,
+				[
+					[
+						"Goodbye Hud",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				17500,
+				[
+					[
+						"Opponent Fade",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				52400,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.6",
+						"0.2"
+					],
+					[
+						"Flash Screen",
+						"1",
+						""
+					],
+					[
+						"Goodbye Hud",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				52500,
+				[
+					[
+						"Flash Camera(black)",
+						"657",
+						""
+					]
+				]
+			],
+			[
+				61200,
+				[
+					[
+						"Flash Camera(black)",
+						"1",
+						""
+					],
+					[
+						"Cam Zoom Tween",
+						"1.3",
+						"7"
+					]
+				]
+			],
+			[
+				65500,
+				[
+					[
+						"Cam Zoom Tween",
+						"1.3",
+						"0"
+					]
+				]
+			],
+			[
+				70300,
+				[
+					[
+						"Flash Camera(black)",
+						"678",
+						""
+					]
+				]
+			]
+		]
+	}
+}

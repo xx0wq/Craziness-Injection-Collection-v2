@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				-101
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": " Laughter PH2",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				-94
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Randy P2 Idle"
+		},
+		{
+			"offsets": [
+				48,
+				-34
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Randy P2 Left"
+		},
+		{
+			"offsets": [
+				-242,
+				20
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Randy P2 Down"
+		},
+		{
+			"offsets": [
+				-493,
+				243
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Randy P2 Up"
+		},
+		{
+			"offsets": [
+				-353,
+				110
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Randy P2 Laugh"
+		},
+		{
+			"offsets": [
+				-353,
+				110
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Randy P2 Laugh"
+		},
+		{
+			"offsets": [
+				-276,
+				-116
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Randy P2 Right"
+		},
+		{
+			"offsets": [
+				-353,
+				110
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Randy P2 Laugh"
+		},
+		{
+			"offsets": [
+				-353,
+				110
+			],
+			"loop": false,
+			"fps": 26,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Randy P2 Laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/older_happymouse",
+	"position": [
+		-680,
+		-30
+	],
+	"healthicon": "icon-happymouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		68
+	],
+	"camera_position": [
+		460,
+		-20
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

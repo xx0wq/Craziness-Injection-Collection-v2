@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-420,
+				-440
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "MickeyIDLE"
+		},
+		{
+			"offsets": [
+				-420,
+				-440
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MickeyLEFT"
+		},
+		{
+			"offsets": [
+				-440,
+				-440
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MickeyDOWN"
+		},
+		{
+			"offsets": [
+				-420,
+				-440
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MickeyRIGHT"
+		},
+		{
+			"offsets": [
+				-419,
+				-440
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MickeyUP"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pixel/mickey-happy",
+	"position": [
+		-340,
+		-340
+	],
+	"healthicon": "icon-crazymousep",
+	"flip_x": false,
+	"healthbar_colors": [
+		72,
+		72,
+		72
+	],
+	"camera_position": [
+		40,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

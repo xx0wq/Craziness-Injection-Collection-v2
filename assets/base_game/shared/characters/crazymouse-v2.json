@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-540,
+				-270
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "crazymouse-v2 idle"
+		},
+		{
+			"offsets": [
+				1550,
+				878
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "crazymouse-v2 down"
+		},
+		{
+			"offsets": [
+				1538,
+				881
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "crazymouse-v2 left"
+		},
+		{
+			"offsets": [
+				1544,
+				880
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "crazymouse-v2 right"
+		},
+		{
+			"offsets": [
+				1550,
+				876
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "crazymouse-v2 up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crazymouse-v2",
+	"position": [
+		-630,
+		150
+	],
+	"healthicon": "crazymouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		51,
+		51
+	],
+	"camera_position": [
+		200,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 4.2
+}

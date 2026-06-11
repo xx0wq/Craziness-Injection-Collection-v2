@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RandyV2.png">
+<SubTexture name="Randy idle0000" x="0" y="1800" width="1125" height="782" frameX="-257" frameY="-160" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy idle0001" x="1125" y="1800" width="1114" height="773" frameX="-274" frameY="-170" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy idle0002" x="2921" y="0" width="1018" height="766" frameX="-380" frameY="-177" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy idle0003" x="1020" y="2582" width="1031" height="760" frameX="-380" frameY="-183" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy idle0004" x="1027" y="911" width="930" height="770" frameX="-469" frameY="-173" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy idle0005" x="1965" y="882" width="774" height="782" frameX="-607" frameY="-161" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy idle0006" x="2921" y="766" width="746" height="758" frameX="-580" frameY="-185" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy idle0007" x="1965" y="882" width="774" height="782" frameX="-607" frameY="-161" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy idle0008" x="1027" y="911" width="930" height="770" frameX="-469" frameY="-173" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy down0000" x="3939" y="1457" width="778" height="611" frameX="-617" frameY="-350" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy down0001" x="2474" y="4078" width="787" height="609" frameX="-615" frameY="-353" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy down0002" x="3729" y="3344" width="846" height="611" frameX="-562" frameY="-356" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy down0003" x="2689" y="3344" width="1040" height="646" frameX="-378" frameY="-357" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy down0004" x="0" y="4078" width="1161" height="637" frameX="-265" frameY="-364" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy down0005" x="1161" y="4078" width="1313" height="619" frameX="-119" frameY="-373" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy left0000" x="0" y="2582" width="1020" height="762" frameX="-308" frameY="-184" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy left0001" x="2921" y="1524" width="997" height="756" frameX="-332" frameY="-190" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy left0002" x="2851" y="2582" width="908" height="748" frameX="-421" frameY="-198" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy left0003" x="0" y="3344" width="816" height="734" frameX="-513" frameY="-212" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy left0004" x="3939" y="744" width="717" height="713" frameX="-612" frameY="-233" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy right0000" x="1755" y="3344" width="934" height="725" frameX="-611" frameY="-223" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy right0001" x="816" y="3344" width="939" height="730" frameX="-618" frameY="-219" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy right0002" x="3939" y="0" width="785" height="744" frameX="-783" frameY="-205" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy right0003" x="2051" y="2582" width="800" height="752" frameX="-788" frameY="-197" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy up0000" x="1965" y="0" width="956" height="882" frameX="-712" frameY="-137" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy up0001" x="0" y="911" width="1027" height="889" frameX="-628" frameY="-131" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy up0002" x="959" y="0" width="1006" height="899" frameX="-638" frameY="-121" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Randy up0003" x="0" y="0" width="959" height="911" frameX="-685" frameY="-109" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

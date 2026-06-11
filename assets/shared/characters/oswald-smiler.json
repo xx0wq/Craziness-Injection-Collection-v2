@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				309,
+				77
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "ciinsaneoswald idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				70
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "ciinsaneoswald left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				60
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "ciinsaneoswald down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				61
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "ciinsaneoswald up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				50
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "ciinsaneoswald right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ciinsaneoswald",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "ciio",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-380,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

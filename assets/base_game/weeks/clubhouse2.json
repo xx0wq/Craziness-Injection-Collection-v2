@@ -1,0 +1,40 @@
+{
+	"storyName": "Missing Mouse",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "menu_minnie",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Pardon",
+			"icon-minnie",
+			[
+				73,
+				73,
+				73
+			]
+		],
+		[
+			"Displeaced",
+			"icon-minnie",
+			[
+				33,
+				13,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "CI_Tape_2"
+}

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CIpico.png">
+<SubTexture name="CIpico down0000" x="2461" y="628" width="757" height="580" frameX="-1" frameY="-205" frameWidth="970" frameHeight="785" />
+<SubTexture name="CIpico down0001" x="2461" y="1208" width="757" height="565" frameX="-1" frameY="-220" frameWidth="970" frameHeight="785" />
+<SubTexture name="CIpico down0002" x="2461" y="1773" width="757" height="559" frameX="-1" frameY="-226" frameWidth="970" frameHeight="785" />
+<SubTexture name="CIpico idle0000" x="0" y="910" width="591" height="753" frameX="-50" frameY="-75" frameWidth="714" frameHeight="831" />
+<SubTexture name="CIpico idle0001" x="1875" y="0" width="586" height="746" frameX="-55" frameY="-82" frameWidth="714" frameHeight="831" />
+<SubTexture name="CIpico idle0002" x="1875" y="746" width="585" height="735" frameX="-56" frameY="-93" frameWidth="714" frameHeight="831" />
+<SubTexture name="CIpico idle0003" x="0" y="1663" width="591" height="726" frameX="-50" frameY="-102" frameWidth="714" frameHeight="831" />
+<SubTexture name="CIpico idle0004" x="0" y="910" width="591" height="753" frameX="-50" frameY="-75" frameWidth="714" frameHeight="831" />
+<SubTexture name="CIpico left0000" x="591" y="910" width="736" height="753" frameX="0" frameY="-102" frameWidth="739" frameHeight="855" />
+<SubTexture name="CIpico left0001" x="591" y="910" width="736" height="753" frameX="0" frameY="-102" frameWidth="739" frameHeight="855" />
+<SubTexture name="CIpico right0000" x="591" y="1663" width="894" height="628" frameX="-50" frameY="-86" frameWidth="944" frameHeight="721" />
+<SubTexture name="CIpico right0001" x="1485" y="1663" width="902" height="628" frameX="-42" frameY="-86" frameWidth="944" frameHeight="721" />
+<SubTexture name="CIpico right0002" x="2461" y="0" width="915" height="628" frameX="-29" frameY="-86" frameWidth="944" frameHeight="721" />
+<SubTexture name="CIpico up0000" x="0" y="0" width="625" height="910" frameX="-59" frameY="0" frameWidth="740" frameHeight="910" />
+<SubTexture name="CIpico up0001" x="625" y="0" width="625" height="910" frameX="-59" frameY="0" frameWidth="740" frameHeight="910" />
+<SubTexture name="CIpico up0002" x="1250" y="0" width="625" height="910" frameX="-59" frameY="0" frameWidth="740" frameHeight="910" />
+</TextureAtlas>

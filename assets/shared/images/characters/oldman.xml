@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="oldman.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="up00010000" x="709" y="0" width="281" height="340" frameX="-123" frameY="-89" frameWidth="442" frameHeight="442"/>
+	<SubTexture name="up00000000" x="399" y="0" width="310" height="366" frameX="-123" frameY="-63" frameWidth="442" frameHeight="442"/>
+	<SubTexture name="left00010000" x="597" y="403" width="311" height="294" frameX="-86" frameY="-130" frameWidth="442" frameHeight="442"/>
+	<SubTexture name="left00000000" x="0" y="0" width="399" height="403" frameX="2" frameY="-21" frameWidth="442" frameHeight="442"/>
+	<SubTexture name="down00010000" x="990" y="289" width="292" height="297" frameX="-129" frameY="-142" frameWidth="442" frameHeight="442"/>
+	<SubTexture name="down00000000" x="990" y="0" width="315" height="289" frameX="-126" frameY="-150" frameWidth="442" frameHeight="442"/>
+	<SubTexture name="right00010000" x="303" y="403" width="294" height="311" frameX="-140" frameY="-113" frameWidth="442" frameHeight="442"/>
+	<SubTexture name="right00000000" x="0" y="403" width="303" height="311" frameX="-141" frameY="-113" frameWidth="442" frameHeight="442"/>
+	<SubTexture name="idle00030000" x="210" y="714" width="210" height="301" frameX="-127" frameY="-115" frameWidth="442" frameHeight="442"/>
+	<SubTexture name="idle00020000" x="0" y="714" width="210" height="302" frameX="-127" frameY="-114" frameWidth="442" frameHeight="442"/>
+	<SubTexture name="idle00010000" x="420" y="714" width="210" height="298" frameX="-127" frameY="-118" frameWidth="442" frameHeight="442"/>
+	<SubTexture name="idle00000000" x="630" y="714" width="216" height="284" frameX="-123" frameY="-132" frameWidth="442" frameHeight="442"/>
+</TextureAtlas>

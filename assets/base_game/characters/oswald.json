@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "oswald idle"
+		},
+		{
+			"offsets": [
+				-59,
+				68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "oswald down"
+		},
+		{
+			"offsets": [
+				-15,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "oswald left"
+		},
+		{
+			"offsets": [
+				-31,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "oswald up"
+		},
+		{
+			"offsets": [
+				23,
+				89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "oswald right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oswald",
+	"position": [
+		-350,
+		100
+	],
+	"healthicon": "icon-rabbil",
+	"flip_x": false,
+	"healthbar_colors": [
+		97,
+		79,
+		101
+	],
+	"camera_position": [
+		-200,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				446,
+				346
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "ci litle man idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				447,
+				344
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "ci litle man left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				440,
+				349
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "ci litle man down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				444,
+				347
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "ci litle man up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				442,
+				343
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "ci litle man right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				340
+			],
+			"anim": "singLEFT-alt",
+			"fps": 15,
+			"name": "ci litle man alt-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				350
+			],
+			"anim": "singDOWN-alt",
+			"fps": 15,
+			"name": "ci litle man alt-down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				429,
+				340
+			],
+			"anim": "singUP-alt",
+			"fps": 15,
+			"name": "ci litle man alt-up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				340
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 15,
+			"name": "ci litle man alt-right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ci litle man",
+	"position": [
+		80,
+		400
+	],
+	"healthicon": "oldbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		79,
+		58,
+		65
+	],
+	"camera_position": [
+		140,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [396, 439],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SMOKER Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [381, 428],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SMOKER Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [335, 465],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SMOKER Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [357, 458],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SMOKER Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [364, 453],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SMOKER Idle",
+			"indices": []
+		},
+		{
+			"offsets": [372, 452],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "SMOKER Laugh"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/smoker",
+	"position": [-180, 180],
+	"healthicon": "V2",
+	"flip_x": true,
+	"healthbar_colors": [79, 58, 65],
+	"camera_position": [-50, 30],
+	"sing_duration": 4,
+	"scale": 0.35,
+	"_editor_isPlayer": true
+}

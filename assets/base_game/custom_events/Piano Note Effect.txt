@@ -1,0 +1,4 @@
+Hace que una nota especifica se mueva para abajo, como si fuera un piano.
+Usado para los solos de piano en Overjoy
+Valor 1: Número de nota (0-7)
+Valor 2: Tipo de animación/ease

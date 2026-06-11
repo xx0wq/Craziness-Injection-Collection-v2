@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "",
+			"indices": [],
+			"name": "crazymouse-v3"
+		},
+		{
+			"offsets": [
+				-1,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "crazymouse-v3 alt-up"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": true,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "CrazyMouse-FINAL_v2 idle"
+		},
+		{
+			"offsets": [
+				84,
+				151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CrazyMouse-FINAL_v2 left"
+		},
+		{
+			"offsets": [
+				47,
+				169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CrazyMouse-FINAL_v2 right"
+		},
+		{
+			"offsets": [
+				108,
+				159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CrazyMouse-FINAL_v2 down"
+		},
+		{
+			"offsets": [
+				115,
+				159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CrazyMouse-FINAL_v2 up"
+		},
+		{
+			"offsets": [
+				115,
+				161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "CrazyMouse-FINAL_v2 up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CrazyMouse-FINAL_v2",
+	"position": [
+		80,
+		300
+	],
+	"healthicon": "icon-crazymouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		24,
+		24,
+		24
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 5.1,
+	"scale": 1.9
+}

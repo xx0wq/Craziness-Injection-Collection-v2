@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				459,
+				199
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cl Oswald idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				190
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cl Oswald left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				200
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cl Oswald down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				200
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cl Oswald up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				380,
+				190
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cl Oswald right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cl Oswald",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "icon-oswald",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		25,
+		255
+	],
+	"camera_position": [
+		-140,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

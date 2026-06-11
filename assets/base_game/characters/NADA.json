@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "",
+			"indices": [],
+			"name": ""
+		},
+		{
+			"offsets": [
+				92,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": " Laughter PH2"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				-94
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Randy P2 Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				-34
+			],
+			"anim": "singLEFT",
+			"fps": 21,
+			"name": "Randy P2 Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-276,
+				-116
+			],
+			"anim": "singRIGHT",
+			"fps": 21,
+			"name": "Randy P2 Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-242,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 21,
+			"name": "Randy P2 Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-469,
+				243
+			],
+			"anim": "singUP",
+			"fps": 21,
+			"name": "Randy P2 Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-353,
+				110
+			],
+			"anim": "singUP-alt",
+			"fps": 26,
+			"name": "Randy P2 Laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/older_happymouse",
+	"position": [
+		-350,
+		-280
+	],
+	"healthicon": "happymouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		153,
+		153
+	],
+	"camera_position": [
+		500,
+		290
+	],
+	"sing_duration": 6,
+	"scale": 0.05
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bf_old.png" width="650" height="1180">
+  <SubTexture name="Up0002.png" x="0" y="0"  width="159" height="212" frameX="-197" frameY="-88" frameWidth="522" frameHeight="349"/>
+  <SubTexture name="Up0001.png" x="0" y="212"  width="159" height="211" frameX="-197" frameY="-89" frameWidth="522" frameHeight="349"/>
+  <SubTexture name="Up0003.png" x="0" y="423"  width="158" height="211" frameX="-198" frameY="-89" frameWidth="522" frameHeight="349"/>
+  <SubTexture name="Right0001.png" x="0" y="634"  width="170" height="189" frameX="-196" frameY="-112" frameWidth="522" frameHeight="349"/>
+  <SubTexture name="Right0002.png" x="158" y="423"  width="170" height="188" frameX="-196" frameY="-112" frameWidth="522" frameHeight="349"/>
+  <SubTexture name="Right0003.png" x="159" y="0"  width="162" height="188" frameX="-196" frameY="-112" frameWidth="522" frameHeight="349"/>
+  <SubTexture name="Idle0001.png" x="159" y="188"  width="127" height="188" frameX="-185" frameY="-118" frameWidth="522" frameHeight="349"/>
+  <SubTexture name="Idle0004.png" x="286" y="188"  width="125" height="186" frameX="-187" frameY="-119" frameWidth="522" frameHeight="349"/>
+  <SubTexture name="Idle0003.png" x="321" y="0"  width="126" height="182" frameX="-186" frameY="-123" frameWidth="522" frameHeight="349"/>
+  <SubTexture name="Idle0002.png" x="0" y="823"  width="126" height="181" frameX="-186" frameY="-124" frameWidth="522" frameHeight="349"/>
+  <SubTexture name="Left0001.png" x="0" y="1004"  width="159" height="176" frameX="-149" frameY="-127" frameWidth="522" frameHeight="349"/>
+  <SubTexture name="Left0002.png" x="126" y="823"  width="159" height="176" frameX="-149" frameY="-126" frameWidth="522" frameHeight="349"/>
+  <SubTexture name="Left0003.png" x="170" y="611"  width="159" height="175" frameX="-149" frameY="-127" frameWidth="522" frameHeight="349"/>
+  <SubTexture name="Down0001.png" x="328" y="374"  width="162" height="154" frameX="-172" frameY="-143" frameWidth="522" frameHeight="349"/>
+  <SubTexture name="Down0002.png" x="411" y="182"  width="162" height="154" frameX="-172" frameY="-143" frameWidth="522" frameHeight="349"/>
+  <SubTexture name="Down0003.png" x="490" y="0"  width="160" height="154" frameX="-172" frameY="-143" frameWidth="522" frameHeight="349"/>
+</TextureAtlas>

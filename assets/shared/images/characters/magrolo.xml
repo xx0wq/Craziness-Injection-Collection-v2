@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="magrolo.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down образец 10000" x="0" y="0" width="404" height="631" frameX="0" frameY="-9" frameWidth="404" frameHeight="640"/>
+	<SubTexture name="down образец 10001" x="0" y="0" width="404" height="631" frameX="0" frameY="-9" frameWidth="404" frameHeight="640"/>
+	<SubTexture name="down образец 10002" x="404" y="0" width="402" height="640" frameX="0" frameY="0" frameWidth="404" frameHeight="640"/>
+	<SubTexture name="down образец 10003" x="404" y="0" width="402" height="640" frameX="0" frameY="0" frameWidth="404" frameHeight="640"/>
+	<SubTexture name="down образец 10004" x="806" y="0" width="386" height="640" frameX="-16" frameY="0" frameWidth="404" frameHeight="640"/>
+	<SubTexture name="down образец 10005" x="806" y="0" width="386" height="640" frameX="-16" frameY="0" frameWidth="404" frameHeight="640"/>
+	<SubTexture name="down образец 10006" x="1192" y="0" width="374" height="640" frameX="-28" frameY="0" frameWidth="404" frameHeight="640"/>
+	<SubTexture name="down образец 10007" x="1192" y="0" width="374" height="640" frameX="-28" frameY="0" frameWidth="404" frameHeight="640"/>
+	<SubTexture name="idle образец 10000" x="1566" y="0" width="392" height="617" frameX="0" frameY="-28" frameWidth="392" frameHeight="645"/>
+	<SubTexture name="idle образец 10001" x="1566" y="0" width="392" height="617" frameX="0" frameY="-28" frameWidth="392" frameHeight="645"/>
+	<SubTexture name="idle образец 10002" x="1958" y="0" width="376" height="617" frameX="-16" frameY="-28" frameWidth="392" frameHeight="645"/>
+	<SubTexture name="idle образец 10003" x="1958" y="0" width="376" height="617" frameX="-16" frameY="-28" frameWidth="392" frameHeight="645"/>
+	<SubTexture name="idle образец 10004" x="2334" y="0" width="364" height="617" frameX="-28" frameY="-28" frameWidth="392" frameHeight="645"/>
+	<SubTexture name="idle образец 10005" x="2334" y="0" width="364" height="617" frameX="-28" frameY="-28" frameWidth="392" frameHeight="645"/>
+	<SubTexture name="idle образец 10006" x="2698" y="0" width="364" height="617" frameX="-28" frameY="-28" frameWidth="392" frameHeight="645"/>
+	<SubTexture name="idle образец 10007" x="3062" y="0" width="376" height="645" frameX="-16" frameY="0" frameWidth="392" frameHeight="645"/>
+	<SubTexture name="idle образец 10008" x="3062" y="0" width="376" height="645" frameX="-16" frameY="0" frameWidth="392" frameHeight="645"/>
+	<SubTexture name="idle образец 10009" x="3438" y="0" width="392" height="645"/>
+	<SubTexture name="idle образец 10010" x="3438" y="0" width="392" height="645"/>
+	<SubTexture name="idle образец 10011" x="3438" y="0" width="392" height="645"/>
+	<SubTexture name="idle образец 10012" x="3438" y="0" width="392" height="645"/>
+	<SubTexture name="idle образец 10013" x="3438" y="0" width="392" height="645"/>
+	<SubTexture name="idle образец 10014" x="3438" y="0" width="392" height="645"/>
+	<SubTexture name="left образец 10000" x="0" y="645" width="416" height="645" frameX="0" frameY="0" frameWidth="419" frameHeight="645"/>
+	<SubTexture name="left образец 10001" x="0" y="645" width="416" height="645" frameX="0" frameY="0" frameWidth="419" frameHeight="645"/>
+	<SubTexture name="left образец 10002" x="416" y="645" width="405" height="645" frameX="-14" frameY="0" frameWidth="419" frameHeight="645"/>
+	<SubTexture name="left образец 10003" x="416" y="645" width="405" height="645" frameX="-14" frameY="0" frameWidth="419" frameHeight="645"/>
+	<SubTexture name="left образец 10004" x="821" y="645" width="389" height="645" frameX="-30" frameY="0" frameWidth="419" frameHeight="645"/>
+	<SubTexture name="left образец 10005" x="821" y="645" width="389" height="645" frameX="-30" frameY="0" frameWidth="419" frameHeight="645"/>
+	<SubTexture name="left образец 10006" x="1210" y="645" width="376" height="645" frameX="-43" frameY="0" frameWidth="419" frameHeight="645"/>
+	<SubTexture name="left образец 10007" x="1210" y="645" width="376" height="645" frameX="-43" frameY="0" frameWidth="419" frameHeight="645"/>
+	<SubTexture name="right образец 10000" x="1586" y="645" width="382" height="645" frameX="-18" frameY="0" frameWidth="400" frameHeight="645"/>
+	<SubTexture name="right образец 10001" x="1586" y="645" width="382" height="645" frameX="-18" frameY="0" frameWidth="400" frameHeight="645"/>
+	<SubTexture name="right образец 10002" x="1968" y="645" width="380" height="645" frameX="0" frameY="0" frameWidth="400" frameHeight="645"/>
+	<SubTexture name="right образец 10003" x="1968" y="645" width="380" height="645" frameX="0" frameY="0" frameWidth="400" frameHeight="645"/>
+	<SubTexture name="right образец 10004" x="2348" y="645" width="364" height="645" frameX="-16" frameY="0" frameWidth="400" frameHeight="645"/>
+	<SubTexture name="right образец 10005" x="2348" y="645" width="364" height="645" frameX="-16" frameY="0" frameWidth="400" frameHeight="645"/>
+	<SubTexture name="right образец 10006" x="2712" y="645" width="351" height="645" frameX="-29" frameY="0" frameWidth="400" frameHeight="645"/>
+	<SubTexture name="right образец 10007" x="2712" y="645" width="351" height="645" frameX="-29" frameY="0" frameWidth="400" frameHeight="645"/>
+	<SubTexture name="right образец 10008" x="2348" y="645" width="364" height="645" frameX="-16" frameY="0" frameWidth="400" frameHeight="645"/>
+	<SubTexture name="right образец 10009" x="2348" y="645" width="364" height="645" frameX="-16" frameY="0" frameWidth="400" frameHeight="645"/>
+	<SubTexture name="right образец 10010" x="1968" y="645" width="380" height="645" frameX="0" frameY="0" frameWidth="400" frameHeight="645"/>
+	<SubTexture name="right образец 10011" x="1968" y="645" width="380" height="645" frameX="0" frameY="0" frameWidth="400" frameHeight="645"/>
+	<SubTexture name="right образец 10012" x="1968" y="645" width="380" height="645" frameX="0" frameY="0" frameWidth="400" frameHeight="645"/>
+	<SubTexture name="up образец 10000" x="3063" y="645" width="397" height="663" frameX="0" frameY="0" frameWidth="397" frameHeight="664"/>
+	<SubTexture name="up образец 10001" x="3063" y="645" width="397" height="663" frameX="0" frameY="0" frameWidth="397" frameHeight="664"/>
+	<SubTexture name="up образец 10002" x="3460" y="645" width="397" height="652" frameX="0" frameY="-12" frameWidth="397" frameHeight="664"/>
+	<SubTexture name="up образец 10003" x="3460" y="645" width="397" height="652" frameX="0" frameY="-12" frameWidth="397" frameHeight="664"/>
+	<SubTexture name="up образец 10004" x="0" y="1308" width="381" height="652" frameX="-16" frameY="-12" frameWidth="397" frameHeight="664"/>
+	<SubTexture name="up образец 10005" x="0" y="1308" width="381" height="652" frameX="-16" frameY="-12" frameWidth="397" frameHeight="664"/>
+	<SubTexture name="up образец 10006" x="381" y="1308" width="369" height="652" frameX="-28" frameY="-12" frameWidth="397" frameHeight="664"/>
+	<SubTexture name="up образец 10007" x="381" y="1308" width="369" height="652" frameX="-28" frameY="-12" frameWidth="397" frameHeight="664"/>
+</TextureAtlas>

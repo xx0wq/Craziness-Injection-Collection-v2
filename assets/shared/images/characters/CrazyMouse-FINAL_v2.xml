@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CrazyMouse-FINAL_v2.png">
+<SubTexture name="CrazyMouse-FINAL_v2 down0000" x="1642" y="1816" width="422" height="378" frameX="-77" frameY="-131" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 down0001" x="2274" y="0" width="423" height="378" frameX="-77" frameY="-131" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 down0002" x="2274" y="1134" width="423" height="364" frameX="-77" frameY="-146" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 down0003" x="2274" y="378" width="423" height="378" frameX="-77" frameY="-131" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 down0004" x="2274" y="756" width="423" height="378" frameX="-77" frameY="-131" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 idle0000" x="984" y="1387" width="405" height="425" frameX="-18" frameY="-6" frameWidth="433" frameHeight="431" />
+<SubTexture name="CrazyMouse-FINAL_v2 idle0001" x="411" y="1816" width="409" height="398" frameX="-17" frameY="-33" frameWidth="433" frameHeight="431" />
+<SubTexture name="CrazyMouse-FINAL_v2 idle0002" x="820" y="1816" width="411" height="390" frameX="-17" frameY="-41" frameWidth="433" frameHeight="431" />
+<SubTexture name="CrazyMouse-FINAL_v2 idle0003" x="1231" y="1816" width="411" height="387" frameX="-17" frameY="-44" frameWidth="433" frameHeight="431" />
+<SubTexture name="CrazyMouse-FINAL_v2 idle0004" x="0" y="1816" width="411" height="406" frameX="-17" frameY="-25" frameWidth="433" frameHeight="431" />
+<SubTexture name="CrazyMouse-FINAL_v2 idle0005" x="1870" y="0" width="404" height="407" frameX="-17" frameY="-24" frameWidth="433" frameHeight="431" />
+<SubTexture name="CrazyMouse-FINAL_v2 idle0006" x="1389" y="1387" width="403" height="425" frameX="-18" frameY="-6" frameWidth="433" frameHeight="431" />
+<SubTexture name="CrazyMouse-FINAL_v2 up0000" x="0" y="466" width="464" height="463" frameX="-28" frameY="-40" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 up0001" x="464" y="466" width="472" height="459" frameX="-28" frameY="-44" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 up0002" x="472" y="0" width="472" height="464" frameX="-28" frameY="-39" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 up0003" x="0" y="0" width="472" height="466" frameX="-28" frameY="-37" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 up0004" x="944" y="0" width="472" height="459" frameX="-28" frameY="-44" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 up0005" x="0" y="929" width="464" height="458" frameX="-28" frameY="-45" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 up0006" x="944" y="459" width="464" height="459" frameX="-28" frameY="-44" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 left0000" x="908" y="929" width="491" height="441" frameX="-1" frameY="-62" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 left0001" x="0" y="1387" width="492" height="429" frameX="0" frameY="-74" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 left0002" x="492" y="1387" width="492" height="428" frameX="0" frameY="-75" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 right0000" x="1416" y="0" width="454" height="441" frameX="-64" frameY="-72" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 right0001" x="464" y="929" width="444" height="443" frameX="-63" frameY="-70" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 right0002" x="1416" y="441" width="450" height="441" frameX="-63" frameY="-72" frameWidth="518" frameHeight="518" />
+<SubTexture name="CrazyMouse-FINAL_v2 right0003" x="1416" y="882" width="454" height="441" frameX="-64" frameY="-72" frameWidth="518" frameHeight="518" />
+</TextureAtlas>

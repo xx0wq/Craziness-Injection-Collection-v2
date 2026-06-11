@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-500,
+				-440
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "I"
+		},
+		{
+			"offsets": [
+				-500,
+				-440
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "L"
+		},
+		{
+			"offsets": [
+				-500,
+				-440
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "D"
+		},
+		{
+			"offsets": [
+				-494,
+				-440
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "R"
+		},
+		{
+			"offsets": [
+				-509,
+				-440
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "U"
+		},
+		{
+			"offsets": [
+				-510,
+				-440
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP-miss",
+			"indices": [],
+			"name": "missU"
+		},
+		{
+			"offsets": [
+				-503,
+				-440
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFT-miss",
+			"indices": [],
+			"name": "missL"
+		},
+		{
+			"offsets": [
+				-500,
+				-440
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN-miss",
+			"indices": [],
+			"name": "missD"
+		},
+		{
+			"offsets": [
+				-494,
+				-441
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT-miss",
+			"indices": [],
+			"name": "missR"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pixel/boyfriend",
+	"position": [
+		-340,
+		-340
+	],
+	"healthicon": "icon-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		72,
+		72,
+		72
+	],
+	"camera_position": [
+		40,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

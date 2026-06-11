@@ -1,0 +1,166 @@
+{
+	"song": {
+		"events": [
+			[
+				31875,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.6",
+						"0"
+					],
+					[
+						"NoteSpin",
+						"",
+						""
+					]
+				]
+			],
+			[
+				31950,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				74700,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Cam Zoom Tween",
+						"1",
+						"0.2"
+					]
+				]
+			],
+			[
+				77175,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.5",
+						"0.2"
+					]
+				]
+			],
+			[
+				99900,
+				[
+					[
+						"Flash Camera(black)",
+						"324",
+						""
+					]
+				]
+			],
+			[
+				100650,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.8",
+						"0"
+					],
+					[
+						"NoteSpin",
+						"",
+						""
+					],
+					[
+						"badapplelol",
+						"a",
+						""
+					]
+				]
+			],
+			[
+				101250,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				146700,
+				[
+					[
+						"Bopping HUD",
+						"2",
+						""
+					],
+					[
+						"Cam Zoom Tween",
+						"0.7",
+						"0"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				146775,
+				[
+					[
+						"badapplelol",
+						"b",
+						""
+					],
+					[
+						"Cam Zoom Tween",
+						"0.5",
+						"0"
+					]
+				]
+			],
+			[
+				169350,
+				[
+					[
+						"Bopping HUD",
+						"0",
+						"0"
+					],
+					[
+						"Cam Zoom Tween",
+						"0.8",
+						"0"
+					],
+					[
+						"badapplelol",
+						"a",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				180075,
+				[
+					[
+						"Flash Camera(black)",
+						"687",
+						""
+					]
+				]
+			]
+		]
+	}
+}

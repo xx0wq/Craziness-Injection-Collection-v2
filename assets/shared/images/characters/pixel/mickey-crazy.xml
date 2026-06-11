@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crazyPixelMouse.png">
+<SubTexture name="crazyPixelMouse idle0000" x="0" y="0" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse idle0001" x="100" y="0" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse idle0002" x="0" y="100" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse idle0003" x="100" y="100" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse idle0004" x="200" y="0" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse idle0005" x="200" y="100" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse left0000" x="0" y="200" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse left0001" x="100" y="200" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse left0002" x="200" y="200" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse left0003" x="300" y="0" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse down0000" x="300" y="100" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse down0001" x="300" y="200" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse down0002" x="0" y="300" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse down0003" x="100" y="300" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse up0000" x="200" y="300" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse up0001" x="300" y="300" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse up0002" x="400" y="0" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse up0003" x="400" y="100" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse right0000" x="400" y="200" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse right0001" x="400" y="300" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse right0002" x="0" y="400" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse right0003" x="100" y="400" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse laugh0000" x="200" y="400" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse laugh0001" x="300" y="400" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse laugh0002" x="400" y="400" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+<SubTexture name="crazyPixelMouse laugh0003" x="500" y="0" width="100" height="100" frameX="0" frameY="0" frameWidth="100" frameHeight="100" />
+</TextureAtlas>

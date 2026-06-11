@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mickey-mouse.png">
+<SubTexture name="mickey-mouse idle0000" x="1862" y="2413" width="622" height="694" frameX="-32" frameY="-162" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse idle0001" x="3457" y="0" width="621" height="693" frameX="-32" frameY="-164" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse idle0002" x="0" y="2413" width="615" height="707" frameX="-32" frameY="-150" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse idle0003" x="1192" y="1693" width="610" height="717" frameX="-32" frameY="-140" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse idle0004" x="0" y="1693" width="607" height="720" frameX="-32" frameY="-137" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse idle0005" x="2484" y="2413" width="622" height="694" frameX="-32" frameY="-162" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse idle0006" x="3457" y="0" width="621" height="693" frameX="-32" frameY="-164" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse idle0007" x="0" y="2413" width="615" height="707" frameX="-32" frameY="-150" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse idle0008" x="1192" y="1693" width="610" height="717" frameX="-32" frameY="-140" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse idle0009" x="0" y="1693" width="607" height="720" frameX="-32" frameY="-137" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse left0000" x="1802" y="1693" width="633" height="711" frameX="-16" frameY="-146" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse left0001" x="1227" y="2413" width="635" height="703" frameX="-10" frameY="-154" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse right0000" x="615" y="2413" width="612" height="707" frameX="-120" frameY="-160" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse right0001" x="2851" y="0" width="606" height="709" frameX="-132" frameY="-158" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse up0000" x="569" y="0" width="569" height="853" frameX="-27" frameY="-5" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse up0001" x="0" y="0" width="569" height="856" frameX="-27" frameY="-2" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse up0002" x="0" y="856" width="571" height="837" frameX="-31" frameY="-21" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse up0003" x="1138" y="0" width="571" height="838" frameX="-31" frameY="-20" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse up0004" x="2280" y="0" width="571" height="833" frameX="-31" frameY="-25" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse up0005" x="1709" y="0" width="571" height="835" frameX="-31" frameY="-23" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse up0006" x="571" y="856" width="571" height="837" frameX="-31" frameY="-21" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse up0007" x="1138" y="0" width="571" height="838" frameX="-31" frameY="-20" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse up0008" x="2280" y="0" width="571" height="833" frameX="-31" frameY="-25" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse up0009" x="1709" y="835" width="571" height="835" frameX="-31" frameY="-23" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse down0000" x="607" y="1693" width="585" height="719" frameX="-32" frameY="-138" frameWidth="800" frameHeight="868" />
+<SubTexture name="mickey-mouse down0001" x="2851" y="709" width="576" height="701" frameX="-32" frameY="-155" frameWidth="800" frameHeight="868" />
+</TextureAtlas>

@@ -1,0 +1,68 @@
+{
+	"storyName": "Burning Nostalgia",
+	"difficulties": "Hard, Scrapped, Old",
+	"hideFreeplay": false,
+	"weekBackground": "crazy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Bad Thoughts",
+			"mouse",
+			[
+				66,
+				73,
+				93
+			]
+		],
+		[
+			"Hopeless",
+			"mouse",
+			[
+				66,
+				73,
+				93
+			]
+		],
+		[
+			"Overjoy",
+			"happymouse",
+			[
+				46,
+				53,
+				73
+			]
+		],
+		[
+			"Injection",
+			"happymouse",
+			[
+				46,
+				53,
+				73
+			]
+		],
+		[
+			"Hell Sights",
+			"crazymouse",
+			[
+				26,
+				33,
+				53
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "CI_TapeA",
+	"hiddenUntilUnlocked": false
+}

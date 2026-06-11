@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				-101
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": " Laughter PH2",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				-94
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": " Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 21,
+			"name": " Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-93
+			],
+			"anim": "singRIGHT",
+			"fps": 21,
+			"name": " Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				26
+			],
+			"anim": "singDOWN",
+			"fps": 21,
+			"name": " Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				92
+			],
+			"anim": "singUP-alt",
+			"fps": 26,
+			"name": " Laughter PH2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				92
+			],
+			"anim": "singLEFT-alt",
+			"fps": 21,
+			"name": " Laughter PH2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				92
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 21,
+			"name": " Laughter PH2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				92
+			],
+			"anim": "singDOWN-alt",
+			"fps": 21,
+			"name": " Laughter PH2",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				267
+			],
+			"indices": [],
+			"fps": 21,
+			"anim": "singUP",
+			"loop": false,
+			"name": " Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/happymouse-V2-official",
+	"position": [
+		-620,
+		-20
+	],
+	"healthicon": "happymouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		68
+	],
+	"camera_position": [
+		400,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

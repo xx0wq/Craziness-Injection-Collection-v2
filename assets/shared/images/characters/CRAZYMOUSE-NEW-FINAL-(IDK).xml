@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CRAZYMOUSE-NEW-FINAL-(IDK).png">
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) down0000" x="2105" y="0" width="414" height="378" frameX="-77" frameY="-131" frameWidth="518" frameHeight="518" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) down0001" x="2105" y="378" width="413" height="378" frameX="-78" frameY="-131" frameWidth="518" frameHeight="518" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) down0002" x="2105" y="756" width="414" height="364" frameX="-77" frameY="-146" frameWidth="518" frameHeight="518" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) idle0000" x="1263" y="460" width="405" height="425" frameX="-18" frameY="-6" frameWidth="433" frameHeight="431" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) idle0001" x="815" y="1394" width="409" height="398" frameX="-17" frameY="-33" frameWidth="433" frameHeight="431" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) idle0002" x="1224" y="1394" width="411" height="390" frameX="-17" frameY="-41" frameWidth="433" frameHeight="431" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) idle0003" x="1635" y="1394" width="411" height="387" frameX="-17" frameY="-44" frameWidth="433" frameHeight="431" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) idle0004" x="404" y="1394" width="411" height="406" frameX="-17" frameY="-25" frameWidth="433" frameHeight="431" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) idle0005" x="0" y="1394" width="404" height="407" frameX="-17" frameY="-24" frameWidth="433" frameHeight="431" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) idle0006" x="1702" y="0" width="403" height="425" frameX="-18" frameY="-6" frameWidth="433" frameHeight="431" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) left0000" x="483" y="961" width="482" height="429" frameX="-10" frameY="-80" frameWidth="518" frameHeight="518" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) left0001" x="965" y="961" width="483" height="429" frameX="-9" frameY="-80" frameWidth="518" frameHeight="518" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) left0002" x="0" y="961" width="483" height="433" frameX="-9" frameY="-76" frameWidth="518" frameHeight="518" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) right0000" x="0" y="500" width="441" height="461" frameX="-60" frameY="-56" frameWidth="518" frameHeight="518" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) right0001" x="441" y="500" width="439" height="460" frameX="-60" frameY="-57" frameWidth="518" frameHeight="518" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) right0002" x="1263" y="0" width="439" height="460" frameX="-60" frameY="-57" frameWidth="518" frameHeight="518" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) up0000" x="425" y="0" width="419" height="490" frameX="-72" frameY="-10" frameWidth="518" frameHeight="518" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) up0001" x="0" y="0" width="425" height="500" frameX="-66" frameY="0" frameWidth="518" frameHeight="518" />
+<SubTexture name="CRAZYMOUSE-NEW-FINAL-(IDK) up0002" x="844" y="0" width="419" height="490" frameX="-72" frameY="-10" frameWidth="518" frameHeight="518" />
+</TextureAtlas>

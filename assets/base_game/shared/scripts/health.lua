@@ -1,0 +1,2 @@
+--by: Echo-424
+--function goodNoteHit() setProperty('health', getProperty('health')- 0.0072) end function noteMiss() setProperty('health', getProperty('health')- 0.28) end

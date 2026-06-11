@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-155,
+				-48
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Randy Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				-156
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Randy Down ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				85
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Randy Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				-50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Randy Idle "
+		},
+		{
+			"offsets": [
+				23,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Randy Left "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sadmouse",
+	"position": [
+		-720,
+		70
+	],
+	"healthicon": "mouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		68
+	],
+	"camera_position": [
+		360,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

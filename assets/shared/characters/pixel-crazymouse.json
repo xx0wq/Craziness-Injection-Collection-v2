@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-500,
+				-440
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "crazyPixelMouse idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-500,
+				-440
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "crazyPixelMouse left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-455,
+				-440
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "crazyPixelMouse down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-504,
+				-440
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "crazyPixelMouse right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-449,
+				-440
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "crazyPixelMouse up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-503,
+				-440
+			],
+			"anim": "singUP-alt",
+			"fps": 18,
+			"name": "crazyPixelMouse laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pixel/mickey-crazy",
+	"position": [
+		-340,
+		20
+	],
+	"healthicon": "icon-crazymousep",
+	"flip_x": false,
+	"healthbar_colors": [
+		72,
+		72,
+		72
+	],
+	"camera_position": [
+		40,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

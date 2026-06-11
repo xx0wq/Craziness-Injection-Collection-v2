@@ -1,0 +1,17 @@
+{
+	"song": {
+		"player1": "neutralmouse-v2",
+		"player2: "gf",
+		"events": [],
+		"notes": [],
+		"gfVersion": "gf",
+		"splashSkin": "noteSplashes",
+		"song": "OHh-the-misery",
+		"validScore": true,
+		"stage": "streetlight",
+		"arrowSkin": "",
+		"needsVoices": true,
+		"speed": 2,
+		"bpm": 135
+	}
+}

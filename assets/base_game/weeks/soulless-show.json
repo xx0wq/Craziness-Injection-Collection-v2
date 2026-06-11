@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Soulless-The-Last-Show",
+			"icon-happymouse",
+			[
+				26,
+				33,
+				113
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "soulless",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "the-last-show",
+	"startUnlocked": true
+}

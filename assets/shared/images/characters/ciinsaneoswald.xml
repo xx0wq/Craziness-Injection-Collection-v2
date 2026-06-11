@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ciinsaneoswald.png">
+<SubTexture name="ciinsaneoswald idle0000" x="1520" y="1489" width="743" height="570" frameX="-205" frameY="-364" frameWidth="1280" frameHeight="960" />
+<SubTexture name="ciinsaneoswald idle0001" x="1627" y="660" width="729" height="581" frameX="-211" frameY="-353" frameWidth="1280" frameHeight="960" />
+<SubTexture name="ciinsaneoswald idle0002" x="791" y="1489" width="729" height="581" frameX="-211" frameY="-353" frameWidth="1280" frameHeight="960" />
+<SubTexture name="ciinsaneoswald idle0003" x="2411" y="0" width="715" height="560" frameX="-217" frameY="-374" frameWidth="1280" frameHeight="960" />
+<SubTexture name="ciinsaneoswald idle0004" x="2411" y="560" width="702" height="558" frameX="-225" frameY="-375" frameWidth="1280" frameHeight="960" />
+<SubTexture name="ciinsaneoswald left0000" x="0" y="1489" width="791" height="646" frameX="-119" frameY="-290" frameWidth="1280" frameHeight="960" />
+<SubTexture name="ciinsaneoswald left0001" x="1627" y="0" width="784" height="660" frameX="-126" frameY="-276" frameWidth="1280" frameHeight="960" />
+<SubTexture name="ciinsaneoswald left0002" x="830" y="764" width="773" height="670" frameX="-136" frameY="-265" frameWidth="1280" frameHeight="960" />
+<SubTexture name="ciinsaneoswald down0000" x="2270" y="2135" width="787" height="497" frameX="-173" frameY="-434" frameWidth="1280" frameHeight="960" />
+<SubTexture name="ciinsaneoswald down0001" x="3126" y="0" width="770" height="493" frameX="-184" frameY="-438" frameWidth="1280" frameHeight="960" />
+<SubTexture name="ciinsaneoswald down0002" x="3126" y="493" width="750" height="485" frameX="-195" frameY="-445" frameWidth="1280" frameHeight="960" />
+<SubTexture name="ciinsaneoswald up0000" x="0" y="0" width="808" height="764" frameX="-190" frameY="-142" frameWidth="1280" frameHeight="960" />
+<SubTexture name="ciinsaneoswald up0001" x="808" y="0" width="819" height="740" frameX="-186" frameY="-166" frameWidth="1280" frameHeight="960" />
+<SubTexture name="ciinsaneoswald up0002" x="0" y="764" width="830" height="725" frameX="-177" frameY="-180" frameWidth="1280" frameHeight="960" />
+<SubTexture name="ciinsaneoswald right0000" x="0" y="2135" width="764" height="558" frameX="-252" frameY="-350" frameWidth="1280" frameHeight="960" />
+<SubTexture name="ciinsaneoswald right0001" x="764" y="2135" width="759" height="540" frameX="-252" frameY="-368" frameWidth="1280" frameHeight="960" />
+<SubTexture name="ciinsaneoswald right0002" x="1523" y="2135" width="747" height="529" frameX="-253" frameY="-378" frameWidth="1280" frameHeight="960" />
+</TextureAtlas>

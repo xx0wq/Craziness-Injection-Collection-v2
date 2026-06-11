@@ -1,0 +1,35 @@
+{
+	"optionShit":["story_mode","freeplay","mods","credits","options"],
+
+	"objetos":["Fondo Neon Naranja Version Completa","MenuPersonajes","Menu de controles","Efecto1","Efecto2"],
+
+	"controles":"normales",
+
+	"flicker":[null],
+
+	"items":[
+		[true,"","centro"],
+		[-600,-200],
+		[-600,-60],
+		[-600,80],
+		[-600,220],
+		[0,560],
+		[0,700],
+		[0,840],
+		[0,980]
+	],
+
+	"camara":[
+		[null],
+		[0,0],
+		[0,140],
+		[0,280],
+		[0,420],
+		[0,560],
+		[0,700],
+		[0,840],
+		[0,980]
+	],
+
+	"version":["Retro Gamers Funkin","1.0","www.youtube.com/channel/UCKlp4w6wL6Vc2XlafbrCqsw/featured",true]
+}

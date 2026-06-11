@@ -1,0 +1,61 @@
+{
+	"song": {
+		"events": [
+			[
+				10050,
+				[
+					[
+						"Cam Zoom Tween",
+						"1.35",
+						"0"
+					]
+				]
+			],
+			[
+				11100,
+				[
+					[
+						"Cam Zoom Tween",
+						"0.8",
+						"0"
+					]
+				]
+			],
+			[
+				11200,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0"
+					],
+					[
+						"Cinematics (OverLap)",
+						"0.2",
+						"46"
+					]
+				]
+			],
+			[
+				11300,
+				[
+					[
+						"camera bounce",
+						"",
+						""
+					],
+					[
+						"Bopping HUD",
+						"0.75",
+						""
+					],
+					[
+						"Cam Boom Speed",
+						"0.12",
+						"0.8"
+					]
+				]
+			]
+		]
+	}
+}

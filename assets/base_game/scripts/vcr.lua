@@ -1,0 +1,2 @@
+--by: Echo-424
+function onCreate() makeLuaSprite('vignette','Funkin.avi/VCR/vignette',-50,-50) scaleObject('vignette', 1.4, 1.4) setObjectCamera("vignette", "Other") addLuaSprite('MickeyScratch') addLuaSprite('vignette') end

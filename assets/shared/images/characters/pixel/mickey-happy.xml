@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="happymouse.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MickeyDOWN0000" x="0" y="0" width="100" height="100"/>
+	<SubTexture name="MickeyDOWN0001" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="MickeyDOWN0002" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="MickeyDOWN0003" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="MickeyDOWN0004" x="100" y="0" width="100" height="100"/>
+	<SubTexture name="MickeyIDLE0000" x="200" y="0" width="100" height="100"/>
+	<SubTexture name="MickeyIDLE0001" x="300" y="0" width="100" height="100"/>
+	<SubTexture name="MickeyIDLE0002" x="400" y="0" width="100" height="100"/>
+	<SubTexture name="MickeyIDLE0003" x="0" y="100" width="100" height="100"/>
+	<SubTexture name="MickeyIDLE0004" x="0" y="100" width="100" height="100"/>
+	<SubTexture name="MickeyLEFT0000" x="100" y="100" width="100" height="100"/>
+	<SubTexture name="MickeyLEFT0001" x="200" y="100" width="100" height="100"/>
+	<SubTexture name="MickeyLEFT0002" x="200" y="100" width="100" height="100"/>
+	<SubTexture name="MickeyLEFT0003" x="200" y="100" width="100" height="100"/>
+	<SubTexture name="MickeyLEFT0004" x="200" y="100" width="100" height="100"/>
+	<SubTexture name="MickeyRIGHT0000" x="300" y="100" width="100" height="100"/>
+	<SubTexture name="MickeyRIGHT0001" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="MickeyRIGHT0002" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="MickeyRIGHT0003" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="MickeyRIGHT0004" x="400" y="100" width="100" height="100"/>
+	<SubTexture name="MickeyUP0000" x="0" y="200" width="100" height="100"/>
+	<SubTexture name="MickeyUP0001" x="100" y="200" width="100" height="100"/>
+	<SubTexture name="MickeyUP0002" x="100" y="200" width="100" height="100"/>
+	<SubTexture name="MickeyUP0003" x="100" y="200" width="100" height="100"/>
+	<SubTexture name="MickeyUP0004" x="100" y="200" width="100" height="100"/>
+
+	<!-- If you are reading this, Jimmy, tell the team I said "hi". -Mark -->
+</TextureAtlas>

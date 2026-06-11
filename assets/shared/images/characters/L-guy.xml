@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="L-guy.png">
+<SubTexture name="L-guy idle0000" x="583" y="1737" width="507" height="815" frameX="-595" frameY="-111" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="L-guy idle0001" x="1957" y="825" width="503" height="823" frameX="-599" frameY="-103" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="L-guy idle0002" x="488" y="893" width="488" height="839" frameX="-610" frameY="-87" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="L-guy idle0003" x="1469" y="0" width="488" height="844" frameX="-610" frameY="-82" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="L-guy idle0004" x="0" y="893" width="488" height="844" frameX="-610" frameY="-82" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="L-guy right0000" x="976" y="893" width="600" height="826" frameX="-646" frameY="-100" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="L-guy right0001" x="1957" y="0" width="582" height="825" frameX="-647" frameY="-101" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="L-guy right0002" x="2539" y="0" width="585" height="821" frameX="-641" frameY="-105" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="L-guy left0000" x="2539" y="821" width="560" height="821" frameX="-527" frameY="-105" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="L-guy left0001" x="0" y="1737" width="583" height="817" frameX="-536" frameY="-109" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="L-guy left0002" x="1090" y="1737" width="592" height="812" frameX="-541" frameY="-114" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="L-guy down0000" x="3124" y="0" width="540" height="786" frameX="-642" frameY="-140" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="L-guy down0001" x="2176" y="1737" width="505" height="796" frameX="-644" frameY="-130" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="L-guy down0002" x="1682" y="1737" width="494" height="810" frameX="-644" frameY="-116" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="L-guy up0000" x="0" y="0" width="495" height="893" frameX="-651" frameY="-33" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="L-guy up0001" x="495" y="0" width="486" height="886" frameX="-646" frameY="-40" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="L-guy up0002" x="981" y="0" width="488" height="878" frameX="-642" frameY="-48" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

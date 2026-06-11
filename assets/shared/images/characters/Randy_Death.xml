@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Randy_Death.png">
+<SubTexture name="Randy_Death Idle0000" x="0" y="0" width="617" height="250" frameX="-5" frameY="-230" frameWidth="640" frameHeight="480" />
+<SubTexture name="Randy_Death Idle0001" x="1237" y="500" width="620" height="244" frameX="-5" frameY="-236" frameWidth="640" frameHeight="480" />
+<SubTexture name="Randy_Death Idle0002" x="617" y="0" width="620" height="250" frameX="-5" frameY="-230" frameWidth="640" frameHeight="480" />
+<SubTexture name="Randy_Death Idle0003" x="0" y="250" width="620" height="250" frameX="-5" frameY="-230" frameWidth="640" frameHeight="480" />
+<SubTexture name="Randy_Death Idle0004" x="0" y="500" width="620" height="250" frameX="-5" frameY="-230" frameWidth="640" frameHeight="480" />
+<SubTexture name="Randy_Death Idle0005" x="0" y="750" width="621" height="250" frameX="-5" frameY="-230" frameWidth="640" frameHeight="480" />
+<SubTexture name="Randy_Death Idle0006" x="1237" y="0" width="621" height="250" frameX="-5" frameY="-230" frameWidth="640" frameHeight="480" />
+<SubTexture name="Randy_Death Idle0007" x="1237" y="250" width="621" height="250" frameX="-5" frameY="-230" frameWidth="640" frameHeight="480" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				459,
+				199
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Maritno_Idle instancia"
+		},
+		{
+			"offsets": [
+				480,
+				205
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Maritno_Right instanci"
+		},
+		{
+			"offsets": [
+				624,
+				206
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Maritno_Left instancia"
+		},
+		{
+			"offsets": [
+				470,
+				165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Maritno_Down instancia"
+		},
+		{
+			"offsets": [
+				478,
+				238
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Maritno_Up instancia"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blurred-mickey",
+	"position": [
+		430,
+		420
+	],
+	"healthicon": "icon-raton_sin_derechos",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		-540,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

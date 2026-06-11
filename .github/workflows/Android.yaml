@@ -14,20 +14,29 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Set up Haxe
+        uses: krdlab/setup-haxe@v1
+        with:
+          haxe-version: 4.3.4
+
       - name: Cache haxelib
         uses: actions/cache@v4
         with:
-          path: $HOME/haxelib
+          path: ~/haxelib
           key: haxelib-${{ runner.os }}-${{ hashFiles('**/*.hxml') }}
           restore-keys: |
             haxelib-${{ runner.os }}-
 
-      - name: Set up environment
+      - name: Set up haxelib directory
         run: |
-          sudo apt update
-          sudo apt install -y haxe openjdk-17-jdk
-          mkdir -p $HOME/haxelib
-          haxelib setup $HOME/haxelib
+          mkdir -p ~/haxelib
+          haxelib setup ~/haxelib
 
       - name: Install haxelib dependencies
         run: |
@@ -36,10 +45,25 @@ jobs:
           haxelib install linc_luajit
           haxelib run lime setup
           haxelib run openfl setup
-          echo "$HOME/haxelib/lime/$(haxelib list lime | grep -o '[0-9.]*')/tools" >> $GITHUB_PATH
+
+      - name: Add lime to PATH
+        run: echo "$(haxelib config)/lime/$(haxelib list | grep '^lime:' | grep -oP '\d+\.\d+\.\d+' | head -1)/tools" >> $GITHUB_PATH
+
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Accept Android SDK licenses
+        run: yes | sdkmanager --licenses
+
+      - name: Install Android NDK
+        run: sdkmanager "ndk;21.4.7075529"
+
+      - name: Configure lime for Android
+        run: |
+          lime setup android -ndk $ANDROID_NDK_HOME -sdk $ANDROID_SDK_ROOT
 
       - name: Build Android
-        run: lime build android
+        run: lime build android -release
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4

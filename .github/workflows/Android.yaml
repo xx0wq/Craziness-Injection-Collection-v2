@@ -47,7 +47,11 @@ jobs:
           haxelib run openfl setup
 
       - name: Add lime to PATH
-        run: echo "$(haxelib config)/lime/$(haxelib list | grep '^lime:' | grep -oP '\d+\.\d+\.\d+' | head -1)/tools" >> $GITHUB_PATH
+        run: |
+          LIME_VERSION=$(haxelib list | grep '^lime:' | grep -oP '\d+\.\d+\.\d+' | head -1)
+          LIME_PATH="$(haxelib config)/lime/$LIME_VERSION/tools"
+          echo "Lime tools path: $LIME_PATH"
+          echo "$LIME_PATH" >> $GITHUB_PATH
 
       - name: Set up Android SDK
         uses: android-actions/setup-android@v3
@@ -60,10 +64,20 @@ jobs:
 
       - name: Configure lime for Android
         run: |
-          lime setup android -ndk $ANDROID_NDK_HOME -sdk $ANDROID_SDK_ROOT
+          mkdir -p ~/.lime
+          cat > ~/.lime/config.xml << EOF
+          <config>
+            <section name="android">
+              <config name="ANDROID_SDK" value="$ANDROID_SDK_ROOT" />
+              <config name="ANDROID_NDK_ROOT" value="$ANDROID_NDK_HOME" />
+              <config name="JAVA_HOME" value="$JAVA_HOME" />
+              <config name="ANDROID_SETUP" value="true" />
+            </section>
+          </config>
+          EOF
 
       - name: Build Android
-        run: lime build android -release
+        run: haxelib run lime build android -release
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4

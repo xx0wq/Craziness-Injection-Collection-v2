@@ -11,20 +11,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout your repo
+    - name: Checkout repo
       uses: actions/checkout@v4
-
-    - name: Detect project.xml location
-      id: detect
-      run: |
-        if [ -f project.xml ]; then
-          echo "PROJECT_DIR=$PWD" >> $GITHUB_ENV
-        elif [ -f psychengine/project.xml ]; then
-          echo "PROJECT_DIR=$PWD/psychengine" >> $GITHUB_ENV
-        else
-          echo "No project.xml found!"
-          exit 1
-        fi
 
     - name: Install dependencies
       run: |
@@ -48,11 +36,11 @@ jobs:
 
     - name: Build APK
       run: |
-        cd $PROJECT_DIR
+        cd $GITHUB_WORKSPACE
         lime build android
 
     - name: Upload APK
       uses: actions/upload-artifact@v4
       with:
         name: psychengine-apk
-        path: $PROJECT_DIR/export/android/bin/*.apk
+        path: export/android/bin/*.apk

@@ -1,0 +1,58 @@
+name: Build Psych Engine APK
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout your repo
+      uses: actions/checkout@v4
+
+    - name: Detect project.xml location
+      id: detect
+      run: |
+        if [ -f project.xml ]; then
+          echo "PROJECT_DIR=$PWD" >> $GITHUB_ENV
+        elif [ -f psychengine/project.xml ]; then
+          echo "PROJECT_DIR=$PWD/psychengine" >> $GITHUB_ENV
+        else
+          echo "No project.xml found!"
+          exit 1
+        fi
+
+    - name: Install dependencies
+      run: |
+        sudo apt update
+        sudo apt install -y haxe openjdk-17-jdk
+        mkdir -p $HOME/haxelib
+        haxelib setup $HOME/haxelib
+        haxelib install lime
+        haxelib install openfl
+        haxelib install linc_luajit
+        haxelib run lime setup
+        haxelib run openfl setup
+        echo "$HOME/haxelib/lime/$(haxelib list lime | grep -o '[0-9.]*')/tools" >> $GITHUB_PATH
+        echo "$HOME/haxelib/openfl/$(haxelib list openfl | grep -o '[0-9.]*')/tools" >> $GITHUB_PATH
+
+    - name: Install Android SDK + NDK
+      uses: android-actions/setup-android@v4
+      with:
+        api-level: 33
+        ndk-version: 25.2.9519653
+
+    - name: Build APK
+      run: |
+        cd $PROJECT_DIR
+        lime build android
+
+    - name: Upload APK
+      uses: actions/upload-artifact@v4
+      with:
+        name: psychengine-apk
+        path: $PROJECT_DIR/export/android/bin/*.apk
